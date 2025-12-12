@@ -13,3 +13,4 @@ organization-level metrics to a Parquet file.
 pip install pandas google-cloud-bigquery google-cloud-bigquery-storage pyarrow
 ```
 Note: Store the service key for bigquery from google in the folder named Keys in the root of the project.
+To run use the script _final_query.py
