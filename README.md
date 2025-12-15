@@ -14,6 +14,7 @@ pip install pandas google-cloud-bigquery google-cloud-bigquery-storage pyarrow
 ```
 Note: Store the service key for bigquery from google in the folder named Keys in the root of the project. 
 
+- To run query use the script
 ```
-- To run query use the script _optimized_query.py
+python _optimized_query.py
 ```
